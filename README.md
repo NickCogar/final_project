@@ -11,4 +11,4 @@ A function will track the potential safety concerns of the desired reaction by c
 
 ### Empathy Map
 
-![image](https://user-images.githubusercontent.com/112362924/196318793-604fad20-58ea-4b1a-8f9f-ea16071df748.png)
+![image](https://user-images.githubusercontent.com/112362924/196318963-ab4037ee-c8e5-400f-8f47-e1da793fa78d.png)
